@@ -1,0 +1,20 @@
+.tombol{
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+
+    padding: 5px;
+    margin-left: 15px;
+}
+
+.k_tombol{
+    width: 8%;
+}
+
+#edit{
+    background-color: green;
+}
+
+#hapus{
+    background-color: orangered;
+}
